@@ -1,0 +1,111 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1p1 release (March 2nd, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>No Title</TITLE>
+<META NAME="description" CONTENT="No Title">
+<META NAME="keywords" CONTENT="web">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="web.css">
+<LINK REL="next" HREF="node1.html">
+</HEAD>
+<BODY >
+
+<h1> Computation on Lattices </h1><br>
+       Philip Klein<br>
+      Collaborator: David Gondek<br>
+    <p>
+      <hr>
+<B>Lattices</B>
+<BR>
+For vectors 
+<!-- MATH: ${\bf b_1}, \ldots, {\bf b_n}$ -->
+<IMG
+ WIDTH="66" HEIGHT="27" ALIGN="MIDDLE" BORDER="0"
+ SRC="img1.gif"
+ ALT="${\bf b_1}, \ldots, {\bf b_n}$">
+in <IMG
+ WIDTH="22" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="img2.gif"
+ ALT="${\bf Q}^d$">,
+the set of integer linear combinations
+<BR><P></P>
+<DIV ALIGN="CENTER">
+<!-- MATH: \begin{displaymath}
+{\cal L} = \{ \lambda_1 {\bf b_1} + \cdots + \lambda_n {\bf b_n} \}
+\end{displaymath} -->
+
+
+<IMG
+ WIDTH="150" HEIGHT="25"
+ SRC="img3.gif"
+ ALT="\begin{displaymath}{\cal L} = \{ \lambda_1 {\bf b_1} + \cdots + \lambda_n {\bf b_n} \}\end{displaymath}">
+</DIV>
+<BR CLEAR="ALL">
+<P></P>
+is called the <EM>lattice</EM> spanned by the vectors
+<BR>
+<P>
+Computational problems in lattices
+arise in 
+<UL>
+<LI>computational algebra
+<LI>coding theory
+<LI>combinatorial optimization
+<LI>cryptology - security of several modern cryptosystems (including one
+commercially deployed) assumes difficulty of finding approximately
+optimal solutions to lattice problems.
+</UL>
+<hr>
+<P>
+<B>Computational problems in lattices</B>
+<UL>
+<LI><B>shortest vector problem:</B>
+<UL>
+<LI>input:  vectors 
+<!-- MATH: ${\bf b_1}, \ldots, {\bf b_n}$ -->
+<IMG
+ WIDTH="66" HEIGHT="27" ALIGN="MIDDLE" BORDER="0"
+ SRC="img1.gif"
+ ALT="${\bf b_1}, \ldots, {\bf b_n}$">
+representing a lattice
+<LI>output: shortest nonzero vector in lattice generated
+</UL>
+<P>
+<LI><B>closest vector problem:</B>
+<UL>
+<LI>input: vector <IMG
+ WIDTH="13" HEIGHT="13" ALIGN="BOTTOM" BORDER="0"
+ SRC="img6.gif"
+ ALT="${\bf x}$">,
+and vectors 
+<!-- MATH: ${\bf b_1}, \ldots, {\bf
+b_n}$ -->
+<IMG
+ WIDTH="66" HEIGHT="27" ALIGN="MIDDLE" BORDER="0"
+ SRC="img1.gif"
+ ALT="${\bf b_1}, \ldots, {\bf b_n}$">
+<LI>output: vector in the lattice that is closest to <IMG
+ WIDTH="13" HEIGHT="13" ALIGN="BOTTOM" BORDER="0"
+ SRC="img6.gif"
+ ALT="${\bf x}$"></UL>(recent paper by Klein in <EM>Symposium on
+	  Discrete Algorithms</EM>:<a href=../../papers/lattice-nearest.ps> ``Finding the closest lattice vector
+when it's unusually close''</a>)
+</UL>
+<P>
+Both problems are NP-hard.  However, 
+ there is strong evidence that approximate solution is
+<EM>not</EM> NP-hard.   Are there good approximation algorithms?
+<BR><HR>
+<ADDRESS>
+<I>Philip Klein</I>
+<BR><I>2000-03-01</I>
+</ADDRESS>
+</BODY>
+</HTML>

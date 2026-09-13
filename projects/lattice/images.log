@@ -1,0 +1,102 @@
+This is TeX, Version 3.14159 (Web2C 7.2) (format=latex2e 1999.8.17)  1 MAR 2000 17:59
+**./images.tex
+(./images.tex
+LaTeX2e <1999/06/01> patch level 1
+
+(/cs/data/texmf/tex/latex2e/base/article.cls
+Document Class: article 1999/01/07 v1.4a Standard LaTeX document class
+(/cs/data/texmf/tex/latex2e/base/size10.clo
+File: size10.clo 1999/01/07 v1.4a Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (/cs/data/texmf/tex/latex2e/graphics/color.sty
+Package: color 1999/02/16 v1.0i Standard LaTeX Color (DPC)
+(/cs/data/texmf/tex/latex2e/graphics/color.cfg)
+Package color Info: Driver file: dvips.def on input line 125.
+(/cs/data/texmf/tex/latex2e/graphics/dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+) (/cs/data/texmf/tex/latex2e/graphics/dvipsnam.def
+File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\sizebox=\box26
+\lthtmlwrite=\write3
+(images.aux)
+\openout1 = `images.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+latex2htmlLength hsize=349.0pt
+latex2htmlLength vsize=633.0pt
+latex2htmlLength hoffset=0.0pt
+latex2htmlLength voffset=0.0pt
+latex2htmlLength topmargin=0.0pt
+latex2htmlLength topskip=0.00003pt
+latex2htmlLength headheight=0.0pt
+latex2htmlLength headsep=0.0pt
+latex2htmlLength parskip=0.0pt plus 1.0pt
+latex2htmlLength oddsidemargin=62.0pt
+latex2htmlLength evensidemargin=62.0pt
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 95.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 95.
+l2hSize :tex2html_wrap_inline41:7.44444pt::7.44444pt::45.55809pt.
+[1
+
+
+]
+l2hSize :tex2html_wrap_inline43:8.99002pt::8.99002pt::13.30171pt.
+[2
+
+
+]
+l2hSize :displaymath45:14.5pt::0.0pt::349.0pt.
+[3
+
+
+]
+l2hSize :tex2html_wrap_inline17:6.45831pt::0.0pt::5.00002pt.
+[4
+
+
+]
+l2hSize :tex2html_wrap_inline22:6.45831pt::0.0pt::5.00002pt.
+[5
+
+
+]
+l2hSize :tex2html_wrap_inline49:6.45831pt::0.0pt::6.06941pt.
+[6
+
+
+] (images.aux) ) 
+Here is how much of TeX's memory you used:
+ 513 strings out of 10978
+ 6292 string characters out of 99436
+ 46753 words of memory out of 263001
+ 3446 multiletter control sequences out of 10000+0
+ 4567 words of font info for 17 fonts, out of 200000 for 1000
+ 14 hyphenation exceptions out of 1000
+ 23i,5n,19p,182b,217s stack positions out of 300i,100n,500p,30000b,4000s
+
+Output written on images.dvi (6 pages, 1764 bytes).
